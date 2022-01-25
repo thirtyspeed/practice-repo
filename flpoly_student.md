@@ -1,27 +1,31 @@
-## First Name Last Name
+## Duncan Lane
 
-### Term Year 
+### SP2022 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Intro to Data Science
 
-- Course 2
+- International & Comparative Dimensions of Business
 
-- Course 3
+- Intro to Business Finance
 
-- Course 4
+- Into to Computer Networks
+
+- Operations Research
+
+- Principles of Macroeconomics
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Music
 
-- Thing 2
+- Movies
 
 - Thing 3 as shown in this website <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2022/1/25
