@@ -24,7 +24,7 @@ I am _passionate about_:
 
 - Movies
 
-- Art <https://www.rabbi4skin.neocities.org>
+- Art <https://rabbi4skin.neocities.org>
 
 ***
 
